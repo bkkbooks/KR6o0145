@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0145/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 賓頭盧突羅闍為優陀延王說法經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1690.xml
+    old_id: T32n1690
+hash: sha256:a5f1f7c8453ea2b61090279e47abd3707be49889fee9bdba5c772726f686c890

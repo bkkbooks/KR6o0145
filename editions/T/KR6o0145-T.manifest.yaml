@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6o0145/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0145/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 賓頭盧突羅闍為優陀延王說法經
+  identifiers:
+    krp: KR6o0145
+    cbeta: T32n1690
+    cbeta_old_id: T32n1690
+    authorityid: CA0000326
+    json_key: T1690
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1690.xml
+    old_id: T32n1690
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0145_000-T.yaml, hash: 'sha256:a5f1f7c8453ea2b61090279e47abd3707be49889fee9bdba5c772726f686c890'}
+  - {seq: 1, filename: KR6o0145_001-T.yaml, hash: 'sha256:824b734713694858f0810f6d187c87d1b07931b3a5dfc8a7e7c8cf839a02a5dd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0145_000-T.markers.yaml, hash: 'sha256:9648b9c41572c6784a40fd8270bab5c11fc809e30ff19106d6935dddfeaea1b6'}
+  - {seq: 1, role: markers, filename: assets/KR6o0145_001-T.markers.yaml, hash: 'sha256:184fdce40841cdaf868ea6857ca3c487e80608dc28a1333657e247e258603724'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0145_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3269
+  label: '賓頭盧突羅闍為優陀延王說法
+
+    經'
+  type: juan
+  level: 1
+hash: sha256:cb69cb412f18d0f738ea7875060e9097094272abfc643f3f469e9f5a48e9c7a7
