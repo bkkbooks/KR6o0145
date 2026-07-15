@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0145/v1
 canonical_location: https://kanripo.org/bkk/KR6o0145/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 賓頭盧突羅闍為優陀延王說法經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0145_000.yaml, hash: 'sha256:a5f1f7c8453ea2b61090279e47abd3707be49889fee9bdba5c772726f686c890'}
-  - {seq: 1, filename: KR6o0145_001.yaml, hash: 'sha256:824b734713694858f0810f6d187c87d1b07931b3a5dfc8a7e7c8cf839a02a5dd'}
+  - {seq: 1, filename: KR6o0145_001.yaml, hash: 'sha256:7cb2c000aff24bf9e181183ffcbc3596a35bdec3e30e6f9d6c4fad451a6f20c7'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0145_000.markers.yaml, hash: 'sha256:95ab4df893973799b09b0de74d2abb9d8431c8245e7ac5dae17752bf3befb5b0'}
-  - {seq: 1, role: markers, filename: assets/KR6o0145_001.markers.yaml, hash: 'sha256:26e725ff21f84ed47f4a25e41ff4a235602dd4cabff740b1d3dad03e3858b1c2'}
+  - {seq: 1, role: markers, filename: assets/KR6o0145_001.markers.yaml, hash: 'sha256:b6e9bf3002ad5c4fe7b2e20e6636de1e1a556a125a6b438482c5ff575e15f6b8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,4 +51,7 @@ table_of_contents:
     經'
   type: juan
   level: 1
-hash: sha256:ebc71d89d7311da5009ee957dbb9d65c4770ba66525615f2f3c2712d0e9022a8
+hash: sha256:328cb1768b9e0e8951a47a57985fc73431aefc861a38e4c296e0a687b1fff4c2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
